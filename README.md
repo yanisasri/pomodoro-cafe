@@ -22,7 +22,7 @@ A cafe-themed pomodoro timer
 
 ## 🚀 Deployment
 
-This app is deployed on Netlify. See it [here](yanisa-pomodoro.netlify.app).
+This app is deployed on Netlify. See it [here](https://yanisa-pomodoro.netlify.app).
 
 ## 📸 Screenshots
 
