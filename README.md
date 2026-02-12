@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# ☕️ Pomodoro Timer Cafe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A cafe-themed pomodoro timer
 
-## Available Scripts
+![Pomodoro Cafe Demo](./screenshots/demo-screenshot.png)
 
-In the project directory, you can run:
+## 🌟 Features
 
-### `npm start`
+### Core Functionality
+- **Timer** - 5, 10, 15, 20, 25, and 30 minute timer options for users who want to study/work using the Pomodoro method (doing work in time intervals).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Design Features
+- **Day/Night Mode Toggle** - Switch between light and dark themes with custom backgrounds
+- **Custom Pixel Art Backgrounds** - Hand-crafted cafe-themed backgrounds for both light and dark modes
+- **Responsive Design** - Fully responsive layout that works on desktop and mobile devices
+- **Smooth Animations** - Polished UI with smooth transitions and popup animations
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack
+- **React** - Frontend framework
+- **JavaScript (ES6+)** - Programming language
+- **CSS3** - Styling with custom animations
 
-### `npm test`
+## 🚀 Deployment
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This app is deployed on Netlify. See it [here](yanisa-pomodoro.netlify.app).
 
-### `npm run build`
+## 📸 Screenshots
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Landing Page (Cafe Exterior)
+![Cafe Exterior - Dark Mode](./screenshots/exterior-dark.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Cafe Interior (in light mode)
+![Cafe Interior - Light Mode](./screenshots/interior-light.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Timer Menu
+![Timer Menu Popup](./screenshots/menu-popup.png)
 
-### `npm run eject`
+## 🎨 Custom Assets
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+All background images and designs were custom-made for this application:
+- `inside-light.jpg` - Custom cafe interior background (light mode)
+- `inside-dark.jpg` - Custom cafe interior background (dark mode)
+- `outside-light.jpg` - Custom cafe exterior background (light mode)
+- `outside-dark.jpg` - Custom cafe exterior background (dark mode)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📱 Usage
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Toggle Day/Night Mode**: Click the ☀️/🌙 button to switch between light and dark modes
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 👩‍💻 Author
 
-## Learn More
+**Yanisa Srisa-ard**
+- Portfolio: [yanisa.netlify.app](yanisa.netlify.app)
+- GitHub: [@yanisasri](https://github.com/yanisasri)
+- LinkedIn: [linkedin.com/in/yanisa](https://linkedin.com/in/yanisa)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🙏 Acknowledgments
+- Custom pixel art backgrounds designed and created by Yanisa Srisa-ard
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📝 Notes
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This is a hobby project created to practice React development. All designs, including the cafe backgrounds, were custom-made for this application.
