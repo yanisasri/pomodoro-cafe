@@ -286,6 +286,10 @@ function App() {
           </div>
         </div>
       )}
+
+      <footer>
+        <a href="https://yanisa.netlify.app/" target="_blank" rel="noreferrer">yanisa srisa-ard</a>
+      </footer>
     </div>
   );
 }

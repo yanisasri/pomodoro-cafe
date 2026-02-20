@@ -75,6 +75,33 @@ body {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
+/* Footer */
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 16px 20px;
+  text-align: center;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+footer a {
+  font-family: "Comic Neue", cursive;
+  font-size: 0.85rem;
+  color: black;
+  text-decoration: none;
+  letter-spacing: 1px;
+  transition: color 0.2s, opacity 0.2s;
+  pointer-events: all;
+}
+
+footer a:hover {
+  color: rgb(116, 116, 116);
+  opacity: 1;
+}
+
 /* Page Container */
 .page {
   min-height: 100vh;
